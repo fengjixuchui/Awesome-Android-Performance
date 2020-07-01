@@ -95,7 +95,7 @@ Android稳定性优化是一个需要长期投入，持续运营和维护的一�
 - 极客时间之《透视HTTP协议》优化基础部分
 
 
->  [《深入探索 Android 网络优化（三、网络优化篇） 》]()（已完成）
+>  [《深入探索 Android 网络优化（三、网络优化篇） 》](https://juejin.im/post/5edc594ef265da76ea2e988c)（已完成）
 
 - **慕课网之Top团队大牛带你玩转Android性能分析与优化 第八章 App网络优化**
 - **极客时间之Android开发高手课 网络优化方案 1周**
@@ -127,10 +127,19 @@ Android稳定性优化是一个需要长期投入，持续运营和维护的一�
 
 ## 九、耗电优化
 
->  深入探索Android耗电优化（已完成）
+>  [深入探索Android耗电优化](https://juejin.im/post/5ee8103b6fb9a047a64476e6)（已完成）
 
 
 学习资料：《Android性能优化最佳实践》第六章 耗电优化（基础）、慕课网之Top团队大牛带你玩转Android性能分析与优化 第九章 App电量优化（进阶）、极客时间之Android开发高手课 耗电优化（进阶）、《Android移动性能实战》第五章 电池（经验）
+
+
+## 公众号
+
+我的公众号 `JsonChao` 开通啦，如果您想第一时间获取最新文章和最新动态，欢迎扫描关注~
+
+<div align="center">
+<img src="https://user-gold-cdn.xitu.io/2020/6/11/172a29b8b626ef93?w=258&h=258&f=jpeg&s=28705" width=30%>
+</div>
 
 
 ## 赞赏
